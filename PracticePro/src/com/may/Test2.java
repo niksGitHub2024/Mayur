@@ -7,8 +7,13 @@ public class Test2 {
 	System.out.println("It's me Mayur");
 	
 	}
+	public void m2()
+	{
+	System.out.println("M2----Method");
+
+	}
 	public static void main(String[] args) {
 		
-		System.out.println("This is mayur's project");
+	System.out.println("This is mayur's project");
 	}
 }
